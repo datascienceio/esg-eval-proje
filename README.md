@@ -1,1 +1,1 @@
-![dashboard](dashboard.png).
+![dashboard](dashbrd.png).
